@@ -20,10 +20,12 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- JavaScript
+- Google Fonts
 
 ### Screenshot
 
-![Design preview for the Huddle landing page coding challenge](https://github.com/Orisabiyi/qr-component-code/blob/main/design/desktop-preview.jpg)
+![Design preview for the Huddle landing page coding challenge](https://github.com/brycezubi/Huddle-Lading-Curve/blob/main/design/desktop-preview.jpg)
 
 ### Links
 
